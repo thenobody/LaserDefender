@@ -240,7 +240,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 6.91
+  orthographic size: 7
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -433,6 +433,11 @@ PrefabInstance:
     - target: {fileID: 2266605002557726939, guid: 8696b5c9eeb434cf9a57eeeeaca21ad5,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6731154077469099195, guid: 8696b5c9eeb434cf9a57eeeeaca21ad5,
+        type: 3}
+      propertyPath: laserAngle
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
